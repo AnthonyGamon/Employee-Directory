@@ -8,10 +8,10 @@ const Example = (props) => {
         <tbody>
           <tr>
             <th scope="row"></th>
-            <td>{props.first}</td>
-            <td>{props.last}</td>
-            <td>{props.email}</td>
-            <td>{props.brand}</td>
+            <td id="firstname">{props.first}</td>
+            <td id="lastname">{props.last}</td>
+            <td id="email">{props.email}</td>
+            <td id="sneakerbrand">{props.brand}</td>
           </tr>
         </tbody>
       </Table>

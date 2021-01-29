@@ -5,6 +5,7 @@ import Table from "./components/Table";
 import employees from "./employees.json";
 import Bar from "./components/Bar";
 
+
 class App extends Component{
   state = {employees};
 
@@ -14,7 +15,7 @@ render() {
     <Wrapper>
      <Title>Solesiety</Title>
      <Bar></Bar>
-     {this.state.employees.map(employees => (
+     {this.state.employees.map((employees) => (
      <Table  
       first={employees.first}
       last={employees.last}

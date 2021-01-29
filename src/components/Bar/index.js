@@ -8,10 +8,10 @@ const Example = (props) =>{
     <thead>
           <tr>
             <td> </td>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Email</th>
-            <th>Favorite Sneaker Brand</th>
+            <th id="firstname">First Name</th>
+            <th id="lastname">Last Name</th>
+            <th id="email">Email</th>
+            <th id="sneakerbrand">Favorite Sneaker Brand</th>
           </tr>
         </thead>
 </Table>

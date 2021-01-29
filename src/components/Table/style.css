@@ -1,14 +1,18 @@
-tr{
-    text-align: center;
-    font-size: 25px;
+
+#firstname{
+
 }
-th{
-    text-align: center ;
+
+#lastname{
+ 
 }
-td{
-    text-align: center ;
-    padding-left: 30px;
+
+#email{
+
 }
-Table{
-    text-align: center ;
+
+#sneakerbrand{
+  
 }
+
+
