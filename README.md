@@ -58,19 +58,3 @@ You are required to submit the following:
 
 -------
 
-function App() {
-    return (
-      <Wrapper>
-       <Title>Solesiety</Title>
-       <Table
-        first={employees[0].first}
-        last={employees[0].last}
-        email={employees[0].email}
-        brand={employees[0].brand}
-       />
-      </Wrapper>
-    );
-  }
-
-
-export default App;
