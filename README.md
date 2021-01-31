@@ -15,7 +15,7 @@ Please check out my github AnthonyGamon.
 Here is the live link to this repository https://anthonygamon.github.io/Employee-Directory/.
 
 ## Description
-
+This code allows you 
 
 ## Screenshots
 
