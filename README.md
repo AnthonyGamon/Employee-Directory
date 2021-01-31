@@ -18,6 +18,7 @@ Here is the live link to this repository https://anthonygamon.github.io/Employee
 
 
 ## Screenshots
+![Screen Shot 2021-01-30 at 11 42 41 PM](https://user-images.githubusercontent.com/68041150/106375785-e11b5680-6354-11eb-9669-ec6a666cb593.png)
 
 ## Directions
 Copy and paste the repository and in the project directory, you can run:
